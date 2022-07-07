@@ -1,0 +1,13 @@
+body{
+    background-color: lightgray;
+    font-family: Verdana;
+    color: navy;
+}
+h1, p{
+    margin: auto;
+}
+div{
+    width: 40%;
+    border: 5px double maroon;
+    margin: auto;
+}
